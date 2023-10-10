@@ -22,14 +22,14 @@ Fullstack software engineer with a primary focus on Frontend development
 
 ## 🌱 I’m currently learning
 
-1. MERN stack deployment on AWS
-2. GraphQL
-3. CS50x
+- MERN stack deployment on AWS
+- GraphQL
+- CS50x
 
 ## 📫 How to reach me
 
-1. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-trindade-morgan-66804320/)](https://www.linkedin.com/in/samuel-trindade-morgan-66804320/)
-2. [My website](https://www.samtmorgan.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-trindade-morgan-66804320/)](https://www.linkedin.com/in/samuel-trindade-morgan-66804320/)
+-  [My website](https://www.samtmorgan.com)
 
 <!--
 **samtmorgan/samtmorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
