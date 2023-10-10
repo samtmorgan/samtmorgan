@@ -1,4 +1,6 @@
-### Hi there 👋 my name is Sam, I build things for the web using full stack tech
+### Hi there, I'm 👋 
+Fullstack software engineer with a primary focus on Frontend development
+
 
 
 
