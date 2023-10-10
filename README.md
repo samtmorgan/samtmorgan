@@ -1,4 +1,4 @@
-### Hi there, I'm 👋 
+### Hi there, I'm Sam 👋 
 Fullstack software engineer with a primary focus on Frontend development
 
 
