@@ -1,8 +1,6 @@
 ### Hi there, I'm Sam 👋 
 Fullstack software engineer with a primary focus on Frontend development
 
-
-
 <!--
 **samtmorgan/samtmorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
