@@ -1,7 +1,7 @@
 ### Hi there, I'm Sam 👋 
 Fullstack software engineer with a primary focus on Frontend development
 
-
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
 
 
 <!--
