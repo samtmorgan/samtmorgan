@@ -1,10 +1,6 @@
 ### Hi there, I'm Sam 👋 
 Fullstack software engineer with a primary focus on Frontend development
 
-<div style={height:'50px'}>
-  ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-</div>
-
 
 
 <!--
@@ -20,4 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div style={height:'50px'}>
+  ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+</div>
+
 -->
