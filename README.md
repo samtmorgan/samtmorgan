@@ -20,7 +20,7 @@ Fullstack software engineer with a primary focus on Frontend development
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50"/>
 </p>
 
-## 🌱 I’m currently learning
+## 🌱 Currently learning
 
 - MERN stack deployment on AWS
 - GraphQL
