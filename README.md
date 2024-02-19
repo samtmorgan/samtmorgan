@@ -10,7 +10,6 @@ Fullstack software engineer with a primary focus on Frontend development
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  alt="JavaScript" width="50"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" alt="Material UI" width="50"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="50"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="50"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50"/>&nbsp;&nbsp;&nbsp;
@@ -23,13 +22,11 @@ Fullstack software engineer with a primary focus on Frontend development
 ## 🌱 Currently learning
 
 - MERN stack deployment on AWS
-- GraphQL
 - CS50x
 
 ## 📫 How to reach me
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-trindade-morgan-66804320/)](https://www.linkedin.com/in/samuel-trindade-morgan-66804320/)
--  [My website](https://www.samtmorgan.com)
 
 <!--
 **samtmorgan/samtmorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
