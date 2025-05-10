@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Sam
 
-Fullstack software engineer with a primary focus on Frontend development
+Web focused software engineer with capability accross the stack.
 
 ## 🛠️ Currently building with these great tools
 
